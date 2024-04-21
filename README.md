@@ -31,3 +31,7 @@ As for the third level as well I wanted to create a mechanique that would allow 
 ### Future Changes
 
 I would love to fletch out the game on my own time as the few people who play tested the game genuinely enjoyed the difficulty behind the movement and the increasing difficulty. I could invision this game having many sets of levels with different back drop styles, increasing the mob abilities as the levels progress.
+
+### Sketches, Iterations and Documentation
+
+
