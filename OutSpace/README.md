@@ -32,7 +32,7 @@ Luna must collect the ship's main deck window to proceed to level 2. Collecting 
 
 The second level, the cosmic critters begin to multiply, as they morph from Cosmic Critters to Damned Dustclouds, the mobs swarm the player as they navigate the atmosphere. Luna must now search for the legs to her ship. This time, she faces two tracking mobs and double the amount of stars will spawn as the level before.
 
-## Changes - Proposal to Final iteration
+## Changes - Proposal to Final Iteration
 I initally had a very ambitious concept for this game. The initial concept in my final proposal stated there would be 4 levels with a boss fight (allowing the player movement integration such as a dash feature) Though, I did not have all the capacity to do so within the time constraint.
 
 The boss level featuring the Regolith could sadly not be implemented in this iteration with the current knowledge I have using Phaser. Though I am learning more each day and with each iteration it becomes more cohesive. I would have loved if the mobs abilities could morph throughout the game. I would have much rather implement a X,Y travel path for the Damned Dustclouds to travel, creating a different interaction experience and a collision repercussion.
