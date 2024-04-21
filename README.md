@@ -2,7 +2,8 @@
 
 Final Project - Cart 263
 
-![alt text](http://url/to/img.png)
+
+![First Sketch](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.04.33%20PM.png?raw=true)
 
 ## Description
 
