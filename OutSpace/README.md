@@ -9,6 +9,7 @@ Final Project - Cart 263
 ![Luna Sprite](https://github.com/Alouux/CART-263/blob/main/Sketches/lunareclipse.gif?raw=true)
 
 * Don't forget to click the screen before pressing PLAY to see the animation sequence *
+* 
 Click to play NOW: https://hybrid.concordia.ca/al_bond/OutSpace/index%20(2).html
 
 A stop motion animation plays as you enter the menu screen. A friendly alien, **Luna** (AKA you) is ambushed by Cosmic Critters, a noodle creature from the Lunar trenches of the deep, a slightly cute but deadly encounter. Pulled from her ship, drifting through the depths of space, the only hope for survival is to collect the remnants of the space craft! Go through each level and grab the parts to her ship to get her back to her home planet.
