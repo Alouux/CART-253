@@ -38,7 +38,7 @@ I also created a sprite sheet for Luna's left and right movements in a past iter
 
 **The Luna(r) Phases**
 
-Luna had a glow up along the way. We love her all the same.
+Luna had a glow up along the way. We love her all the same. Just like an eclipse, she's a bit hard to look at (unintentional pixel art)
 
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/luna.png?raw=true)
 
