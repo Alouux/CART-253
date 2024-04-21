@@ -13,9 +13,11 @@ The game takes place over the course of **3 levels ** that increase in difficult
 
 Upon pressing Play, the user is spawned into the first level.
 
-**Objectives** Luna must collect the ship's main deck window to proceed to level 2. Collecting the bonus moon will award her a bonus point each level she does so.
+**Objectives** Luna must collect the ship's main deck window to proceed to level 2. Collecting the bonus moon will award her a bonus point each level she does so. The Cosmic Critters are coded to follow the user and slow their movement by swarming them. As the levels progress, they multiply and evolve.
 
-![Star Obstacle Sprite](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/starboy.png?raw=true)
+
+
+![Cosmic Critter](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/meanie.png?raw=true)
 
 The second level, the cosmic critters begin to multiply, as they morph from Cosmic Critters to Damned Dustclouds, the mobs swarm the player as they navigate the atmosphere. 
 
@@ -24,6 +26,7 @@ I initally had a very ambitious concept for this game. The initial concept in my
 
 The boss level featuring the Regolith could sadly not be implemented in this iteration with the current knowledge I have using Phaser. Though I am learning more each day and with each iteration it becomes more cohesive. I would have loved if the mobs abilities could morph throughout the game. I would have much rather implement a X,Y travel path for the Damned Dustclouds to travel, creating a different interaction experience.
 
+![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/damned.png?raw=true)
 As for the third level as well I wanted to create a mechanique that would allow the final boss to engulf parts of the screen, making the user restart the levels if they are found trapped in the smoke. Alas, time was not on my side for creating all of these new mechaniques for the first time, as I could find very little documentation on the implementation process within Phaser. 
 
 ### Future Changes
