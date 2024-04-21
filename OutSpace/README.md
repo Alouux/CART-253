@@ -14,7 +14,7 @@ The game takes place over the course of **3 levels ** that increase in difficult
 
 Upon pressing Play, the user is spawned into the first level.
 
-**Objectives** 
+**Objectives** :
 Luna must collect the ship's main deck window to proceed to level 2. Collecting the bonus moon will award her a bonus point each level she does so. The Cosmic Critters are coded to follow the user and slow their movement by swarming them. As the levels progress, they multiply and evolve.
 
 
