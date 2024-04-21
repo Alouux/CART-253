@@ -43,7 +43,7 @@ I also created a sprite sheet for Luna's left and right movements in a past iter
 
 It is rather interesting seeing the development of your concept, not just from where you started but also the expectations you set for the final product. I learned a lot about setting realistic goals for myself within the confines of a project guideline. In doing so for future iterations, I believe this skill will allow me to develop my concepts with more tact and precision rather than spreading myself too thin.
 
-# Sketches, Iterations and Documentation
+# Sketches, Prototypes & Process Documentation
 
 **The Luna(r) Phases**
 
