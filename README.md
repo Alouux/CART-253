@@ -32,20 +32,29 @@ As for the third level as well I wanted to create a mechanique that would allow 
 
 I would love to fletch out the game on my own time as the few people who play tested the game genuinely enjoyed the difficulty behind the movement and the increasing difficulty. I could invision this game having many sets of levels with different back drop styles, increasing the mob abilities as the levels progress.
 
+I also created a sprite sheet for Luna's left and right movements in a past iteration, but could not implement it in time. The sprite sheet included her "power up" mode when she acquires her dash on the boss level. I would love to fletch it out on my own time just for fun or for a future project. 
+
 # Sketches, Iterations and Documentation
 
 **The Luna(r) Phases**
 
-![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/luna.png?raw=true)
+Luna had a glow up along the way. We love her all the same.
 
+![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/luna.png?raw=true)
 
 The first initial sketch I made when the concept first came to me. I wanted to include some of the process, as it's interesting to see the characters develop over time. 
 
-** Fun Fact, the moon bonus was at one point a Mochi sprite, which is why it is coded with a mochi ID :) The concept was cute, but too far off from the novelty concept I was trying to create, so I made it into a moon, just as the final boss was initially named after the scientific term for moon dust (Regolith) 
-
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.04.33%20PM.png?raw=true)
 
-Below is the first real iteration of Luna's character design. I wanted to keep the sprites simple and effective while still allowing my creative style come through (as you saw there were MANY iterations of luna)
+Below is the first real iteration of Luna's character design. I wanted to keep the sprites simple and effective while still allowing my creative style come through (as you saw there were MANY iterations of luna, many sketches I left out) 
+
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.08.31%20PM.png?raw=true)
 
+Sketches from the level building process as well as flethcing out the mobs.
+
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.09.26%20PM.png?raw=true)
+
+** Fun Fact, the moon bonus was at one point a Mochi sprite, which is why it is coded with a mochi ID :) The concept was cute, but too far off from the novelty concept I was trying to create, so I made it into a moon, just as the final boss was initially named after the scientific term for moon dust (Regolith) 
+
+![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/mochi.png?raw=true)
+
