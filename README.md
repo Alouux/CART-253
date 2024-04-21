@@ -3,18 +3,29 @@
 Final Project - Cart 263
 
 
-![First Sketch](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.04.33%20PM.png?raw=true)
+![Luna Sprite](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/guy.png?raw=true)
 
 ## Description
 
-A stop motion animation plays as you enter the play screen. A friendly alien, **Luna** (AKA you) is ambushed by Cosmic critters and is pulled from her ship. Drifting through the depths of space, the only hope for survival is to collect the remnants of the space craft.
+A stop motion animation plays as you enter the menu screen. A friendly alien, **Luna** (AKA you) is ambushed by Cosmic Critters, a noodle creature from the Lunar trenches of the deep, a slightly cute but deadly encounter. Pulled from her ship. Drifting through the depths of space, the only hope for survival is to collect the remnants of the space craft!
 
-The game takes place over the course of **3 levels ** that increase in difficulty. Scattered about are moons for the player to collect as a bonus to add to their score. 
+The game takes place over the course of **3 levels ** that increase in difficulty. Scattered about are moons for the player to collect as a bonus to add to their final score. 
 
-I initally had a very ambitious concept for this game. The initial concept in my final proposal stated there would be 4 levels with a boss fight (allowing the player movement integration such as a dash feature) though, I did not have all the capacity to do so within the time constraint. Still, I would love to fletch out the game on my own time as the few people who play tested the game genuinely enjoyed the difficulty behind the movement and the increasing difficulty. I could invision this game having many sets of levels with different back drop styles, increasing the mob abilities as the levels progress.
+Upon pressing Play, the user is spawned into the first level.
 
-The boss level featuring the Regolith could sadly not be implemented in this iteration with the current knowledge I have using Phaser. Though I am learning more each day and with each iteraiton it becomes more cohesive. 
+**Objectives** Luna must collect the ship's main deck window to proceed to level 2. Collecting the bonus moon will award her a bonus point each level she does so.
 
+![Star Obstacle Sprite](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/starboy.png?raw=true)
 
-### Dependencies
+The second level, the cosmic critters begin to multiply, as they morph from Cosmic Critters to Damned Dustclouds, the mobs swarm the player as they navigate the atmosphere. 
 
+## Changes - Proposal to Final iteration
+I initally had a very ambitious concept for this game. The initial concept in my final proposal stated there would be 4 levels with a boss fight (allowing the player movement integration such as a dash feature) Though, I did not have all the capacity to do so within the time constraint.
+
+The boss level featuring the Regolith could sadly not be implemented in this iteration with the current knowledge I have using Phaser. Though I am learning more each day and with each iteration it becomes more cohesive. I would have loved if the mobs abilities could morph throughout the game. I would have much rather implement a X,Y travel path for the Damned Dustclouds to travel, creating a different interaction experience.
+
+As for the third level as well I wanted to create a mechanique that would allow the final boss to engulf parts of the screen, making the user restart the levels if they are found trapped in the smoke. Alas, time was not on my side for creating all of these new mechaniques for the first time, as I could find very little documentation on the implementation process within Phaser. 
+
+### Future Changes
+
+I would love to fletch out the game on my own time as the few people who play tested the game genuinely enjoyed the difficulty behind the movement and the increasing difficulty. I could invision this game having many sets of levels with different back drop styles, increasing the mob abilities as the levels progress.
