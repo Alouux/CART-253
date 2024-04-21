@@ -2,6 +2,7 @@
 
 Final Project - Cart 263
 ![Bonus! BONUS!!!! ](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/moon.png?raw=true)
+
 ## Description
 
 A stop motion animation plays as you enter the menu screen. A friendly alien, **Luna** (AKA you) is ambushed by Cosmic Critters, a noodle creature from the Lunar trenches of the deep, a slightly cute but deadly encounter. Pulled from her ship. Drifting through the depths of space, the only hope for survival is to collect the remnants of the space craft!
