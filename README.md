@@ -32,6 +32,10 @@ As for the third level as well I wanted to create a mechanique that would allow 
 
 I would love to fletch out the game on my own time as the few people who play tested the game genuinely enjoyed the difficulty behind the movement and the increasing difficulty. I could invision this game having many sets of levels with different back drop styles, increasing the mob abilities as the levels progress.
 
-### Sketches, Iterations and Documentation
+# Sketches, Iterations and Documentation
 
+![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.04.33%20PM.png?raw=true)
 
+![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.08.31%20PM.png?raw=true)
+
+![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.09.26%20PM.png?raw=true)
