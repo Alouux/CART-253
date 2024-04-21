@@ -34,8 +34,18 @@ I would love to fletch out the game on my own time as the few people who play te
 
 # Sketches, Iterations and Documentation
 
+**The Luna(r) Phases**
+
+![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/luna.png?raw=true)
+
+
+The first initial sketch I made when the concept first came to me. I wanted to include some of the process, as it's interesting to see the characters develop over time. 
+
+** Fun Fact, the moon bonus was at one point a Mochi sprite, which is why it is coded with a mochi ID :) The concept was cute, but too far off from the novelty concept I was trying to create, so I made it into a moon, just as the final boss was initially named after the scientific term for moon dust (Regolith) 
+
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.04.33%20PM.png?raw=true)
 
+Below is the first real iteration of Luna's character design. I wanted to keep the sprites simple and effective while still allowing my creative style come through (as you saw there were MANY iterations of luna)
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.08.31%20PM.png?raw=true)
 
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.09.26%20PM.png?raw=true)
