@@ -41,6 +41,8 @@ I would love to fletch out the game on my own time as the few people who play te
 
 I also created a sprite sheet for Luna's left and right movements in a past iteration, but could not implement it in time. The sprite sheet included her "power up" mode when she acquires her dash on the boss level. I would love to fletch it out on my own time just for fun or for a future project. 
 
+It is rather interesting seeing the development of your concept, not just from where you started but also the expectations you set for the final product. I learned a lot about setting realistic goals for myself within the confines of a project guideline. In doing so for future iterations, I believe this skill will allow me to develop my concepts with more tact and precision rather than spreading myself too thin.
+
 # Sketches, Iterations and Documentation
 
 **The Luna(r) Phases**
@@ -61,7 +63,7 @@ Sketches from the level building process as well as flethcing out the mobs.
 
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.09.26%20PM.png?raw=true)
 
-** Fun Fact, the moon bonus was at one point a Mochi sprite, which is why it is coded with a mochi ID :) The concept was cute, but too far off from the novelty concept I was trying to create, so I made it into a moon, just as the final boss was initially named after the scientific term for moon dust (Regolith) 
+** Fun Fact, the moon bonus was at one point a Mochi sprite, which is why it is coded with a mochi ID ! The concept was cute, but too far off from the novelty concept I was trying to create, so I made it into a moon, just as the final boss was initially named after the scientific term for moon dust (Regolith) 
 
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/mochi.png?raw=true)
 
