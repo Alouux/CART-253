@@ -70,7 +70,7 @@ Below is the first real iteration of Luna's character design. I wanted to keep t
 
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.08.31%20PM.png?raw=true)
 
-Sketches from the level building process as well as flethcing out the mobs.
+Sketches from the level building process as well as designing the mobs.
 
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.09.26%20PM.png?raw=true)
 
