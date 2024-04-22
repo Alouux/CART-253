@@ -38,7 +38,7 @@ I initally had a very ambitious concept for this game. The initial concept in my
 The boss level featuring the Regolith could sadly not be implemented in this iteration with the current knowledge I have using Phaser. Though I am learning more each day and with each iteration it becomes more cohesive. I would have loved if the mobs abilities could morph throughout the game. I would have much rather implement a X,Y travel path for the Damned Dustclouds to travel, creating a different interaction experience and a collision repercussion.
 
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/damned.png?raw=true)
-As for the third level as well I wanted to create a mechanique that would allow the final boss to engulf parts of the screen, making the user restart the levels if they are found trapped in the smoke. Alas, time was not on my side for creating all of these new mechaniques for the first time, as I could find very little documentation on the implementation process within Phaser. 
+As for the third level as well I wanted to create a mechanic that would allow the final boss to engulf parts of the screen, forcing the user to restart the level if they are found trapped in the smoke. Alas, time was not on my side for creating all of these new mechanics for the first time, as I could find very little documentation on the implementation process within Phaser. 
 
 I had to implement a restart button as the player can sometimes become suffocated in the later levels by the enemies with no resolve (another mechanic that will need updates in future iterations)
 
