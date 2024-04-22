@@ -4,16 +4,9 @@
 Final Project - Cart 263
 ![Bonus! BONUS!!!! ](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/moon.png?raw=true)
 
-##
-
-![Luna Sprite](https://github.com/Alouux/CART-263/blob/main/Sketches/lunareclipse.gif?raw=true)
-
-* Don't forget to click the screen before pressing PLAY to see the animation sequence *
-  
-Click to play NOW: https://hybrid.concordia.ca/al_bond/OutSpace/index%20(2).html
-
 ## Description
-A friendly alien, **Luna** (AKA you) is ambushed by Cosmic Critters, a noodle creature from the Lunar trenches of the deep, a slightly cute but deadly encounter. Pulled from her ship, drifting through the depths of space, the only hope for survival is to collect the remnants of the space craft! Go through each level and grab the parts to her ship to get her back to her home planet.
+
+A stop motion animation plays as you enter the menu screen. A friendly alien, **Luna** (AKA you) is ambushed by Cosmic Critters, a noodle creature from the Lunar trenches of the deep, a slightly cute but deadly encounter. Pulled from her ship, drifting through the depths of space, the only hope for survival is to collect the remnants of the space craft! Go through each level and grab the parts to her ship to get her back to her home planet.
 
 ![Luna Sprite](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/guy.png?raw=true)
 
@@ -21,18 +14,15 @@ The game takes place over the course of **3 levels ** that increase in difficult
 
 Upon pressing Play, the user is spawned into the first level.
 
-![Luna Sprite](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/starboy.png?raw=true)
+**Objectives** Luna must collect the ship's main deck window to proceed to level 2. Collecting the bonus moon will award her a bonus point each level she does so. The Cosmic Critters are coded to follow the user and slow their movement by swarming them. As the levels progress, they multiply and evolve.
 
-**Objectives** :
-Luna must collect the ship's main deck window to proceed to level 2. Collecting the bonus moon will award her a bonus point each level she does so. The Cosmic Critters are coded to follow the user and slow their movement by swarming them. As the levels progress, they multiply and evolve.
 
-![Cosmic Critter](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/window.png?raw=true)
 
 ![Cosmic Critter](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/meanie.png?raw=true)
 
-The second level, the cosmic critters begin to multiply, as they morph from Cosmic Critters to Damned Dustclouds, the mobs swarm the player as they navigate the atmosphere. Luna must now search for the legs to her ship. This time, she faces two tracking mobs and double the amount of stars will spawn as the level before.
+The second level, the cosmic critters begin to multiply, as they morph from Cosmic Critters to Damned Dustclouds, the mobs swarm the player as they navigate the atmosphere. 
 
-## Changes - Proposal to Final Iteration
+## Changes - Proposal to Final iteration
 I initally had a very ambitious concept for this game. The initial concept in my final proposal stated there would be 4 levels with a boss fight (allowing the player movement integration such as a dash feature) Though, I did not have all the capacity to do so within the time constraint.
 
 The boss level featuring the Regolith could sadly not be implemented in this iteration with the current knowledge I have using Phaser. Though I am learning more each day and with each iteration it becomes more cohesive. I would have loved if the mobs abilities could morph throughout the game. I would have much rather implement a X,Y travel path for the Damned Dustclouds to travel, creating a different interaction experience and a collision repercussion.
@@ -46,9 +36,7 @@ I would love to fletch out the game on my own time as the few people who play te
 
 I also created a sprite sheet for Luna's left and right movements in a past iteration, but could not implement it in time. The sprite sheet included her "power up" mode when she acquires her dash on the boss level. I would love to fletch it out on my own time just for fun or for a future project. 
 
-It is rather interesting seeing the development of your concept, not just from where you started but also the expectations you set for the final product. I learned a lot about setting realistic goals for myself within the confines of a project guideline. In doing so for future iterations, I believe this skill will allow me to develop my concepts with more tact and precision rather than spreading myself too thin.
-
-# Sketches, Prototypes & Process Documentation
+# Sketches, Iterations and Documentation
 
 **The Luna(r) Phases**
 
@@ -68,7 +56,7 @@ Sketches from the level building process as well as flethcing out the mobs.
 
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/Sketches/Screen%20Shot%202024-04-21%20at%205.09.26%20PM.png?raw=true)
 
-** Fun Fact, the moon bonus was at one point a Mochi sprite, which is why it is coded with a mochi ID ! The concept was cute, but too far off from the novelty concept I was trying to create, so I made it into a moon, just as the final boss was initially named after the scientific term for moon dust (Regolith) 
+** Fun Fact, the moon bonus was at one point a Mochi sprite, which is why it is coded with a mochi ID :) The concept was cute, but too far off from the novelty concept I was trying to create, so I made it into a moon, just as the final boss was initially named after the scientific term for moon dust (Regolith) 
 
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/mochi.png?raw=true)
 

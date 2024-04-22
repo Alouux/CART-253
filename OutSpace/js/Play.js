@@ -91,6 +91,16 @@ class Play extends Phaser.Scene {
       null,
       this
     );
+    // Create restart button
+    this.restartButton = this.add.image(750, 50, 'restart').setInteractive().setVisible(false);
+    this.restartButton.on('pointerdown', () => {
+        this.scene.restart({ level: 0, score: 0 });
+    });
+
+    // Show restart button if level is not 0
+    if (this.level !== 0) {
+        this.restartButton.setVisible(true);
+    }
 
     // Colliders setup
     this.physics.add.collider(this.avatar, this.obstacle);
@@ -110,6 +120,7 @@ class Play extends Phaser.Scene {
       this.enemies.push(this.spawnEnemy(i));
     }
   }
+  
 
   // Function to spawn an enemy
   spawnEnemy(count) {
@@ -131,6 +142,7 @@ class Play extends Phaser.Scene {
 
     return enemy;
   }
+  
 
   // Function for mochi ball collision
   getMochi(avatar, mochi) {
@@ -148,13 +160,13 @@ class Play extends Phaser.Scene {
 
     this.obstacle.clear(true, true);
 
-    if (this.level == 2) {
-      this.scene.start("Winner", { score: this.score });
+    if (this.level === 2) {
+        // Restart the scene with the initial level configuration
+        this.scene.restart({ level: 0, score: 0 });
     } else {
-      this.scene.restart({ level: this.level + 1, score: this.score + 1 });
+        this.scene.restart({ level: this.level + 1, score: this.score + 1 });
     }
-  }
-
+}
   update() {
     // Handle avatar movement
     this.handleInput();

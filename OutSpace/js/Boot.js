@@ -20,7 +20,9 @@ class Boot extends Phaser.Scene {
     this.load.image("score", "assets/images/spaceship.png"); //item sheet
     this.load.image("body", "assets/images/body.png"); //Body of ship
     this.load.image("leg", "assets/images/leg.png"); //Leg of ship
-    this.load.image('gameOver', "assets/images/meanie.png");
+    this.load.image("gameOver", "assets/images/youwin.png"); // game over screen (not working properly yet)
+    this.load.image("restart", "assets/images/restart.png"); // restart button
+    this.load.audio('backgroundmusic', [ "assets/sounds/Space Ambient Music for relaxing or study  New Planet (Short Version).mp3" ]);
 
 
     
@@ -51,27 +53,18 @@ class Boot extends Phaser.Scene {
     // Enable interactive behavior for the button
     playButton.setInteractive();
 
+    //MUSIC
+    let background = this.sound.add("backgroundmusic");
+    background.loop = true;
+    background.play();
+
     // When the button is clicked, start the play scene with the current level
     playButton.on("pointerdown", () => {
       this.scene.start("play", { level: this.currentLevel });
     });
     this.events.on("gameOver", () => {
-      // Prompt the user to play again
-      const playAgain = confirm(
-          "Congratulations! You reached 5 points. Do you want to play again?"
-      );
   
-      if (playAgain) {
-          this.currentLevel++; // Move to the next level
-          this.scene.restart({ level: this.currentLevel });
-      } else {
-          // Go back to the boot scene
-          this.scene.start("boot");
-      }
-  
-      // Show game over image
-      let gameOverImage = this.add.image(400, 300, 'gameOver').setOrigin(0.5);
-      gameOverImage.setDepth(1); // Ensure it's on top
+      this.scene.start("end");
   });
     this.events.on("VIDEO_COMPLETE", () => {
       this.video.destroy();
