@@ -8,7 +8,7 @@ Programming. Experimenting. Learning. Creating
 
 ### What you'll find
 
-All of my class work is located in this repository. I have included some sketch folders and my past works. Some of them are good! Some of them are...not.
+All of my class work is located in this repository. I have included some sketch folders and my past works. Some of them are good! Some of them are...not?
 
 
 ![Bonus! BONUS!!!! ](https://github.com/Alouux/CART-263/blob/main/Sketches/mochiman.png?raw=true)
