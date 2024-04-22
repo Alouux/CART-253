@@ -17,7 +17,7 @@ A friendly alien, **Luna** (AKA you) is ambushed by Cosmic Critters, a noodle cr
 
 ![Luna Sprite](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/guy.png?raw=true)
 
-The game takes place over the course of **3 levels ** that increase in difficulty. Scattered about are moons for the player to collect as a bonus to add to their final score. 
+The game takes place over the course of 3 levels that increase in difficulty. Scattered about are moons for the player to collect as a bonus to add to their final score. 
 
 Upon pressing Play, the user is spawned into the first level.
 
