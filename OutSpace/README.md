@@ -1,7 +1,7 @@
 
 # OUTSPACE
 
-Final Project - CART 263
+Final Project - CART-263
 ![Bonus! BONUS!!!! ](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/moon.png?raw=true)
 
 ##
