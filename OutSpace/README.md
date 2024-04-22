@@ -40,11 +40,11 @@ The boss level featuring the Regolith could sadly not be implemented in this ite
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/damned.png?raw=true)
 As for the third level as well I wanted to create a mechanique that would allow the final boss to engulf parts of the screen, making the user restart the levels if they are found trapped in the smoke. Alas, time was not on my side for creating all of these new mechaniques for the first time, as I could find very little documentation on the implementation process within Phaser. 
 
-I had to implement a restart button as the player can sometimes become suffocated by the enemies (another mechanic that will need updates in future iterations)
+I had to implement a restart button as the player can sometimes become suffocated in the later levels by the enemies with no resolve (another mechanic that will need updates in future iterations)
 
 ![Damned Dustclouds](https://github.com/Alouux/CART-263/blob/main/OutSpace/assets/images/restart.png?raw=true)
 
-As you can see within the folder and code, there is an End scene that is supposed to play, display the users score and high score and prompt the player to restart, though I was not able to debug this feature in time. This is another key component I would love to get around to working out in the future. 
+As you can see within the folder and code, there is an End scene that is supposed to play, display the users score and high score and prompt the player to restart, though I was not able to debug this feature in time. This is another key component I would love to get around to working out in the future when I am able to budget my time accordingly, which is a skill I am learning and adapting in this class.
 
 ### Future Changes
 
